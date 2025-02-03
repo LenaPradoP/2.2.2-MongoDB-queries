@@ -7,7 +7,8 @@ Realizar diversas consultas en una colección de objetos "restaurants".
 
 💻 Tecnologías Utilizadas
 
-MongoDB
+🌱 MongoAtlas y MongoCompass
+🦄 Sublime Text
 
 ---
 
